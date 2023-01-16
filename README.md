@@ -1,4 +1,4 @@
-# Calculate_TWCI 
+# Calculate a Terrain–Wind Close Index (TWCI)
 
 Calculate TWCI index, calculate wind direction and si10 according to u10 and v10 of ERA5.
 
